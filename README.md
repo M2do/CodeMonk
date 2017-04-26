@@ -1,2 +1,1 @@
-# CodeMonk
-Code for Fun
+Few Codes to play with
