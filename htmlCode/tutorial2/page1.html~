@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My first Page</title>
+	<link rel="stylesheet" type="text/css" href="styles/main.css">
+</head>
+<body>
+    <h1>
+    	Dhiraj Kumar Tandi
+    </h1>
+	<ul id="special">
+		<li>Home</li>
+		<li><a href="page2.html"> Page 2</a></li>
+		<li><a href="page3.html"> Page 3</a></li>
+	</ul>
+	<h2 class="secondary">
+		this is my home page
+	</h2>
+	<p>
+		this is where all basic items are displayed.
+	</p>
+</body>
+</html>
