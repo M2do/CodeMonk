@@ -1,0 +1,7 @@
+/* all paragraphs under div parent are affected*/
+div > p {color: green;} 
+
+/*all para immediately following tudu class are affected */
+p.tudu + p {color: red;}
+/*all para immediately following tudu class are affected ,there can  be span in betweeen*/
+p.oh ~ p {color: green;}

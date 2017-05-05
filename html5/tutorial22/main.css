@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+#box {
+	 display: block;
+	 width: 500px;
+	 margin: 50px auto;
+	 padding: 15px;
+	 text-align: center;
+	 border: 1px solid blue;
+	 background: orange;
+	 -webkit-transform: scale(1.5);
+	 /*
+	 -webkit-transform: rotate(45deg)
+	 -webkit-transform: skew(30deg)
+	 -webkit-transform: translate(100px,300px) parameters are for moving right and bottom 
+
+
+	 we can write in one line as well follows
+
+     -webkit-transform: rotate(45deg)  skew(30deg) translate(100px,300px) will have the same effect
+
+	 */
+}
+#text {
+	font: bold 30px Century Gothic;
+}

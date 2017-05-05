@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+}
+#box {
+	 display: block;
+	 width: 500px;
+	 margin: 50px auto;
+	 padding: 15px;
+	 text-align: center;
+	 border: 1px solid blue;
+	 background: orange;
+	 -webkit-border-radius: 15px;
+	 -webkit-box-shadow: rgb(110,110,110) 10px 10px 10px; /* right down blur : inset is ignored here ,it produces
+	                                                         shadow inside the box*/
+	 background: -webkit-linear-gradient(top,black,white)                                                     
+}
+#text {
+	font: bold 30px Century Gothic;
+	text-shadow: rgb(110,110,110) 3px 3px 5px;
+}

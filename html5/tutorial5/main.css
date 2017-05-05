@@ -1,0 +1,6 @@
+#tuna{color: red;}
+.balo{color: green;}
+p.hutiye{color: green;}
+p[name = "aim"] {color: blue;}
+p[name = "Tudu"] {color: red;}
+p[name^ = "Aim"] {color: green;}
